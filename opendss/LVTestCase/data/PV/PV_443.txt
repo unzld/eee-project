@@ -1,0 +1,11 @@
+New generator.m_gen5 Phases=1 Bus1=74.1 kV=0.23 kW=1 PF=0.95 Yearly=PV_Shape_54
+New generator.m_gen26 Phases=1 Bus1=522.2 kV=0.23 kW=1 PF=0.95 Yearly=PV_Shape_160
+New generator.m_gen47 Phases=1 Bus1=835.3 kV=0.23 kW=1 PF=0.95 Yearly=NM_Shape_135
+New generator.m_gen33 Phases=1 Bus1=619.3 kV=0.23 kW=1 PF=0.95 Yearly=NM_Shape_140
+New generator.m_gen50 Phases=1 Bus1=886.2 kV=0.23 kW=1 PF=0.95 Yearly=NM_Shape_104
+New generator.m_gen27 Phases=1 Bus1=539.3 kV=0.23 kW=1 PF=0.95 Yearly=NM_Shape_23
+New generator.m_gen10 Phases=1 Bus1=248.2 kV=0.23 kW=1 PF=0.95 Yearly=PV_Shape_44
+New generator.m_gen53 Phases=1 Bus1=899.2 kV=0.23 kW=1 PF=0.95 Yearly=PV_Shape_25
+New generator.m_gen7 Phases=1 Bus1=178.2 kV=0.23 kW=1 PF=0.95 Yearly=NM_Shape_136
+New generator.m_gen54 Phases=1 Bus1=900.1 kV=0.23 kW=1 PF=0.95 Yearly=NM_Shape_96
+New generator.m_gen34 Phases=1 Bus1=629.1 kV=0.23 kW=1 PF=0.95 Yearly=NM_Shape_45

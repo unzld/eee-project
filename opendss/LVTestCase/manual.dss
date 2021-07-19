@@ -1,0 +1,30 @@
+clear
+
+Set DefaultBaseFrequency=50  ! for European system
+
+New circuit.LVTest
+Edit Vsource.Source BasekV=11 pu=1.05  ISC3=3000  ISC1=5
+Redirect ".\data\LineCode.txt"
+Redirect ".\data\LoadShapes_1week.txt" 
+Redirect ".\data\Lines.txt"
+Redirect ".\data\Transformers.txt"
+
+Redirect '.\data\PV_LoadShapes_1week.txt'
+Redirect '.\data\NM_LoadShapes_1week.txt'
+Redirect '.\data\Loads\Loads_611.txt'
+Redirect '.\data\PV\PV_611.txt'
+Redirect '.\data\NewMonitors.txt'
+
+Set voltagebases=[11  .416]
+Calcvoltagebases
+
+buscoords ".\data\buscoords.txt"
+solve
+
+set mode=yearly number=336 stepsize=30m    ! one year simulation 
+
+Set Year=1        ! This statement resets all meters
+solve 
+closedi
+
+Redirect '.\data\Export.txt'

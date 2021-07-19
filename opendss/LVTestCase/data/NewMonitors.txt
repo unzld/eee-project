@@ -1,0 +1,73 @@
+// Power monitors
+New monitor.m_load1_power element=Load.LOAD1 terminal=1 mode=1 ppolar=no
+New monitor.m_load2_power element=Load.LOAD2 terminal=1 mode=1 ppolar=no
+New monitor.m_load3_power element=Load.LOAD3 terminal=1 mode=1 ppolar=no
+New monitor.m_load4_power element=Load.LOAD4 terminal=1 mode=1 ppolar=no
+New monitor.m_load5_power element=Load.LOAD5 terminal=1 mode=1 ppolar=no
+New monitor.m_load6_power element=Load.LOAD6 terminal=1 mode=1 ppolar=no
+New monitor.m_load7_power element=Load.LOAD7 terminal=1 mode=1 ppolar=no
+New monitor.m_load8_power element=Load.LOAD8 terminal=1 mode=1 ppolar=no
+New monitor.m_load9_power element=Load.LOAD9 terminal=1 mode=1 ppolar=no
+New monitor.m_load10_power element=Load.LOAD10 terminal=1 mode=1 ppolar=no
+New monitor.m_load11_power element=Load.LOAD11 terminal=1 mode=1 ppolar=no
+New monitor.m_load12_power element=Load.LOAD12 terminal=1 mode=1 ppolar=no
+New monitor.m_load13_power element=Load.LOAD13 terminal=1 mode=1 ppolar=no
+New monitor.m_load14_power element=Load.LOAD14 terminal=1 mode=1 ppolar=no
+New monitor.m_load15_power element=Load.LOAD15 terminal=1 mode=1 ppolar=no
+New monitor.m_load16_power element=Load.LOAD16 terminal=1 mode=1 ppolar=no
+New monitor.m_load17_power element=Load.LOAD17 terminal=1 mode=1 ppolar=no
+New monitor.m_load18_power element=Load.LOAD18 terminal=1 mode=1 ppolar=no
+New monitor.m_load19_power element=Load.LOAD19 terminal=1 mode=1 ppolar=no
+New monitor.m_load20_power element=Load.LOAD20 terminal=1 mode=1 ppolar=no
+New monitor.m_load21_power element=Load.LOAD21 terminal=1 mode=1 ppolar=no
+New monitor.m_load22_power element=Load.LOAD22 terminal=1 mode=1 ppolar=no
+New monitor.m_load23_power element=Load.LOAD23 terminal=1 mode=1 ppolar=no
+New monitor.m_load24_power element=Load.LOAD24 terminal=1 mode=1 ppolar=no
+New monitor.m_load25_power element=Load.LOAD25 terminal=1 mode=1 ppolar=no
+New monitor.m_load26_power element=Load.LOAD26 terminal=1 mode=1 ppolar=no
+New monitor.m_load27_power element=Load.LOAD27 terminal=1 mode=1 ppolar=no
+New monitor.m_load28_power element=Load.LOAD28 terminal=1 mode=1 ppolar=no
+New monitor.m_load29_power element=Load.LOAD29 terminal=1 mode=1 ppolar=no
+New monitor.m_load30_power element=Load.LOAD30 terminal=1 mode=1 ppolar=no
+New monitor.m_load31_power element=Load.LOAD31 terminal=1 mode=1 ppolar=no
+New monitor.m_load32_power element=Load.LOAD32 terminal=1 mode=1 ppolar=no
+New monitor.m_load33_power element=Load.LOAD33 terminal=1 mode=1 ppolar=no
+New monitor.m_load34_power element=Load.LOAD34 terminal=1 mode=1 ppolar=no
+New monitor.m_load35_power element=Load.LOAD35 terminal=1 mode=1 ppolar=no
+New monitor.m_load36_power element=Load.LOAD36 terminal=1 mode=1 ppolar=no
+New monitor.m_load37_power element=Load.LOAD37 terminal=1 mode=1 ppolar=no
+New monitor.m_load38_power element=Load.LOAD38 terminal=1 mode=1 ppolar=no
+New monitor.m_load39_power element=Load.LOAD39 terminal=1 mode=1 ppolar=no
+New monitor.m_load40_power element=Load.LOAD40 terminal=1 mode=1 ppolar=no
+New monitor.m_load41_power element=Load.LOAD41 terminal=1 mode=1 ppolar=no
+New monitor.m_load42_power element=Load.LOAD42 terminal=1 mode=1 ppolar=no
+New monitor.m_load43_power element=Load.LOAD43 terminal=1 mode=1 ppolar=no
+New monitor.m_load44_power element=Load.LOAD44 terminal=1 mode=1 ppolar=no
+New monitor.m_load45_power element=Load.LOAD45 terminal=1 mode=1 ppolar=no
+New monitor.m_load46_power element=Load.LOAD46 terminal=1 mode=1 ppolar=no
+New monitor.m_load47_power element=Load.LOAD47 terminal=1 mode=1 ppolar=no
+New monitor.m_load48_power element=Load.LOAD48 terminal=1 mode=1 ppolar=no
+New monitor.m_load49_power element=Load.LOAD49 terminal=1 mode=1 ppolar=no
+New monitor.m_load50_power element=Load.LOAD50 terminal=1 mode=1 ppolar=no
+New monitor.m_load51_power element=Load.LOAD51 terminal=1 mode=1 ppolar=no
+New monitor.m_load52_power element=Load.LOAD52 terminal=1 mode=1 ppolar=no
+New monitor.m_load53_power element=Load.LOAD53 terminal=1 mode=1 ppolar=no
+New monitor.m_load54_power element=Load.LOAD54 terminal=1 mode=1 ppolar=no
+New monitor.m_load55_power element=Load.LOAD55 terminal=1 mode=1 ppolar=no
+
+// Bus: 1 and 2
+New monitor.cm_1 element=Line.LINE1 terminal=1 mode=1 ppolar=no
+// Bus: 142 and 148
+New monitor.cm_2 element=Line.LINE147 terminal=1 mode=1 ppolar=no
+// Bus: 122 and 127
+New monitor.cm_3 element=Line.LINE126 terminal=1 mode=1 ppolar=no
+// Bus: 215 and 224
+New monitor.cm_4 element=Line.LINE223 terminal=1 mode=1 ppolar=no
+// Bus: 288 and 297
+New monitor.cm_5 element=Line.LINE296 terminal=1 mode=1 ppolar=no
+// Bus: 432 and 439
+New monitor.cm_6 element=Line.LINE438 terminal=1 mode=1 ppolar=no
+// Bus: 660 and 666
+New monitor.cm_7 element=Line.LINE665 terminal=1 mode=1 ppolar=no
+// Bus: 738 and 745
+New monitor.cm_8 element=Line.LINE744 terminal=1 mode=1 ppolar=no
