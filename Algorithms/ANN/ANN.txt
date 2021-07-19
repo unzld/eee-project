@@ -1,0 +1,11 @@
+solver: adam, sgd
+learning rate init:  [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]
+activation function: sigmoid, hyperbolic tan
+epoch: 10000
+alpha: 10.0 ** -np.arange(1, 7)
+hidden layers: 3
+number of neurons: 8 initially
+
+64, 128, 256
+2, 3, 4
+
