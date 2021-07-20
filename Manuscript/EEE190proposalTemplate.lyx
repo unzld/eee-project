@@ -1,0 +1,1807 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass upeeei
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+%%% UP EEEI undergraduate project template
+\end_layout
+
+\begin_layout Plain Layout
+
+%% v0.1 by Louis P.
+ Alarcon 11/22/2011
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% LyX template - use with the following files:
+\end_layout
+
+\begin_layout Plain Layout
+
+%% 	uct10_new.clo, uct11_new.clo, uct12_new.clo, upeeei.cls, upeeei.layout
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% Place project title here
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+title{EEE 190 Undergraduate Project Proposal Template} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% Author information
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+author{
+\end_layout
+
+\begin_layout Plain Layout
+
+%% Louis Poblete Alarc
+\backslash
+'on
+\backslash
+
+\backslash
+ xxxx-xxxxx
+\backslash
+
+\backslash
+ 
+\backslash
+emph{Ph.D.
+ Electrical Engineering and Computer Sciences} 
+\backslash
+and
+\end_layout
+
+\begin_layout Plain Layout
+
+Adelson Ng Chua
+\backslash
+
+\backslash
+ 2007-27741
+\backslash
+
+\backslash
+ 
+\backslash
+emph{M.S.
+ Electrical Engineering}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+and
+\end_layout
+
+\begin_layout Plain Layout
+
+}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+%%
+\end_layout
+
+\begin_layout Plain Layout
+
+%% Month and year of submission/graduation
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+degreeyear{2014} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+degreesemester{April} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+% Put your advisers here:
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+chair{Louis Poblete Alarc
+\backslash
+'on} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+othermembers{John Richard Ereso Hizon
+\backslash
+
+\backslash
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+Joel Joseph Sacro Marciano, Jr.} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+numberofmembers{3} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+field{Electrical/Computer/Electronics and Communications Engineering} 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+campus{Diliman} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+maketitle 
+\end_layout
+
+\begin_layout Plain Layout
+
+% 
+\backslash
+approvalpage 
+\end_layout
+
+\begin_layout Plain Layout
+
+% 
+\backslash
+copyrightpage 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{abstract} 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+%Your abstract goes here...
+\end_layout
+
+\begin_layout Plain Layout
+
+In a 
+\backslash
+emph{single} well-written paragraph, this is what we'd like to do.
+  Try to cover Need, Solution, Differentiation, Benefit (NSDB).
+  Use the content of this template as an example for formatting your proposal
+ document, 
+\backslash
+textbf{NOT} as a strict guide for the flow of your discussion and what your
+ proposal must contain.
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+abstractsignature
+\backslash
+end{abstract}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{frontmatter} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setlength{
+\backslash
+parskip}{0pt}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList figure
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset FloatList table
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{frontmatter} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+def
+\backslash
+MASTERDOC{true}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Introduction
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Introduction"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This section ideally contains the following sub-sections: background of
+ the project, project objectives, and overview of the project.
+\end_layout
+
+\begin_layout Section
+Background of the Project
+\end_layout
+
+\begin_layout Standard
+This section states the reasons why the project is being done.
+ If the project is related to previous projects, a short history of what
+ the previous projects accomplished shall be included.
+ If the project is part of a larger work, a brief mention of the rest of
+ the work shall be made.
+ 
+\end_layout
+
+\begin_layout Section
+Project Objectives 
+\end_layout
+
+\begin_layout Standard
+This section clearly states what the project wishes to achieve.
+ 
+\end_layout
+
+\begin_layout Standard
+This section is usually placed on the Introduction chapter for the final
+ documentation of the project.
+ For proposals, however, the objectives are usually presented in another
+ chapter after the review of related work.
+\end_layout
+
+\begin_layout Section
+Project Overview 
+\end_layout
+
+\begin_layout Standard
+A block diagram giving an overview of the basic building blocks of the project
+ and how they relate to each other shall be shown.
+ If the project will be done by a team, the division of labor can also be
+ mentioned.
+ Just like the previous section, this section is usually presented in another
+ chapter after the review of related work for proposal documents.
+\end_layout
+
+\begin_layout Section
+Documentation Flow and Organization
+\end_layout
+
+\begin_layout Standard
+Before you end your introduction chapter, you should provide a brief description
+ of the upcoming chapters.
+ This gives the readers the idea on what to expect in your documentation.
+ Show how each chapter relates to each other.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Related Work
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:RRW"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A review of previous work and other materials related to the project shall
+ be written here.
+ Make sure you do proper citations of original materials taken from various
+ sources.
+ For example, if this sentence is taken from reference #1 in my bibliography,
+ it should be referenced just like this [1].
+ Avoid copying sources word for word.
+ Always paraphrase.
+ “If it cannot be avoided, enclose the cited material in double quotes just
+ like this” [2].
+ If this whole paragraph was taken from two different sources, then the
+ citations may be written this way [3], [4].
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Problem Statement and Objectives 
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:ProbStatement"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The problem statement and objectives are placed on a separated chapter for
+ project proposals after the review of related work.
+ The previous chapter builds up the foundation of the project by highlighting
+ the advantages and disadvantages of the relevant related work.
+ The main problem that the project intends to solve is then presented in
+ this chapter.
+ The project objectives should also be discussed here.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Methodology
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Methodology"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This section discusses the methods and techniques that will be used to implement
+ the project.
+ This includes not only the actual implementation, but also how tests are
+ designed and their results obtained and analyzed.
+ The methodology may, if applicable, contain the following subsections:
+ design, implementation, and testing.
+ Alternative ways of organizing this section (that is more suited to the
+ type of project being proposed) may be used.
+\end_layout
+
+\begin_layout Section
+Design
+\end_layout
+
+\begin_layout Standard
+Information on how the design will be obtained shall be presented.
+ It shall be indicated whether the tools, parts, and algorithms that will
+ be used in the project will be created by the author or taken from a different
+ source.
+\end_layout
+
+\begin_layout Section
+Implementation
+\end_layout
+
+\begin_layout Standard
+Information on how the design will be implemented shall be presented.
+ It shall be indicated if the labor is to be performed by the author or
+ by a different source.
+ 
+\end_layout
+
+\begin_layout Section
+Testing
+\end_layout
+
+\begin_layout Standard
+Information on how the design and the implementation will be tested shall
+ be presented.
+ Moreover, information on how the test results will be evaluated against
+ the specifications or goals of the project shall also be stated.
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Preliminary Findings
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Prelims"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This is an optional chapter where you present all of your preliminary work,
+ results, and analysis.
+ For final project documentations, this chapter becomes the Results and
+ Analysis chapter.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Project Schedule and Deliverables
+\begin_inset CommandInset label
+LatexCommand label
+name "cha:Project-Sked"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For final project documentations, this chapter becomes the Conclusions and
+ Recommendations chapter.
+\end_layout
+
+\begin_layout Standard
+For project proposals, end the documentation by presenting the project schedule
+ and expected deliverables.
+ This section should clearly describe the activities that will be done.
+ Important milestones should be indicated in the schedule of activities.
+ It should be as specific as possible.
+ 
+\end_layout
+
+\begin_layout Section
+Gantt Chart 
+\end_layout
+
+\begin_layout Standard
+This is a time table that clearly indicates the important milestones of
+ the project.
+ The schedule should be divided into weekly segments.
+ The authors should make sure that the schedules are realistic.
+ It is advised that the weekly tasks are as detailed as possible.
+ 
+\end_layout
+
+\begin_layout Section
+Halfway-point Deliverables
+\end_layout
+
+\begin_layout Standard
+This section should clearly point out and describe the expected outputs
+ at halfway-point.
+ If the project will be done by a group, the deliverables of each group
+ member shall be clearly and specifically stated.
+ 
+\end_layout
+
+\begin_layout Section
+Final Deliverables
+\end_layout
+
+\begin_layout Standard
+This section should clearly point out the final deliverables.
+ If the project will be done by a group, the deliverables of each group
+ member shall be clearly and specifically stated.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "bibliography"
+options "unsrt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+\start_of_appendix
+Appendices
+\end_layout
+
+\begin_layout Standard
+If there is only one appendix, it shall be labeled “Appendix:” and the appendix
+ title.
+ If there are more than one appendices, they shall be labeled “Appendix
+ A: [title]”, “Appendix B: [title]”, etc.
+ For software projects, appendices may include program listings, screen
+ shots, and sample input and output files.
+ For hardware projects, appendices may include printed circuit board layouts
+ and geometric design layouts.
+ Other possible appendices include user manuals (created by the author for
+ the project), long mathematical proofs, and reviews of basic concepts.
+\end_layout
+
+\begin_layout Standard
+You can insert appendices through the 
+\series bold
+Document > Start Appendix Here
+\series default
+ option.
+ The appendix should start after the bibiliography section of the main document.
+ Appendices can also have chapters and sections.
+ LyX automatically lists the appendices alphabetically.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Formatting Tips
+\end_layout
+
+\begin_layout Section
+Inserting Chapters
+\end_layout
+
+\begin_layout Standard
+On the upper left dropdown menu of the LyX window, select 
+\shape italic
+Chapter
+\shape default
+.
+ You can then type the chapter title that you want.
+ Pressing Enter will revert the format to 
+\shape italic
+Standard
+\shape default
+, where the content can now be placed.
+ Chapters are numbered and placed on the 
+\shape italic
+Table of Contents
+\shape default
+ automatically.
+\end_layout
+
+\begin_layout Section
+Inserting Sections
+\end_layout
+
+\begin_layout Standard
+On the same dropdown menu where you insert a chapter, select 
+\shape italic
+Sections
+\shape default
+.
+ The sections under the chapter are automatically numbered accordingly.
+ These also appear in the generated 
+\shape italic
+Table of Contents
+\shape default
+.
+\end_layout
+
+\begin_layout Subsection
+Subsections
+\end_layout
+
+\begin_layout Standard
+You can also add subsections and subsubsections.
+ However, use them sparingly, especially the latter.
+\end_layout
+
+\begin_layout Section
+Inserting Labels
+\end_layout
+
+\begin_layout Standard
+On the chapter/section/image/table that you want to reference, click 
+\series bold
+Insert > Label
+\series default
+.
+ You can use the default label that LyX generates for you.
+ To 'call' it anywhere in your document, click the 
+\series bold
+Insert > Cross-reference
+\series default
+.
+ This provides an efficient way of pointing out figure/table and chapter/section
+ numbers, without the need to type out explicitly what the numbers are in
+ the document.
+\end_layout
+
+\begin_layout Section
+Inserting Floats
+\end_layout
+
+\begin_layout Standard
+Figures and tables shall be included in the body of the documentation to
+ illustrate or clarify the accompanying text.
+ Thus, figures and tables must be referenced in the text in order for them
+ to be meaningful.
+ By convention, figure names should be placed below the image, while table
+ names should be placed on top of the table.
+ 
+\end_layout
+
+\begin_layout Standard
+Moreover, figures or tables should not appear in the document before they
+ are mentioned in the text.
+ By default, LyX does not follow this rule and places images or tables near,
+ but not exactly after, the text referencing it.
+ You can force the rule by right-clicking on the 
+\shape italic
+float:Figure
+\shape default
+ label in the LyX editor and going to 
+\shape italic
+Settings
+\shape default
+.
+ In the window that appears, shown in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Forcing-float-placement"
+
+\end_inset
+
+, uncheck 
+\shape italic
+Use default placement
+\shape default
+ and check 
+\shape italic
+Here definitely
+\shape default
+ instead.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/placement.png
+	width 50col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Forcing float placement
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Forcing-float-placement"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Inserting Images
+\end_layout
+
+\begin_layout Standard
+Place your cursor on the area where you want to insert the image.
+ Select 
+\series bold
+Insert > Float > Figure
+\series default
+.
+ Insert the actual image by selecting 
+\series bold
+Insert > Graphics
+\series default
+.
+ It is a recommended practice that all images should be placed on a single
+ folder on the same directory of this LyX document template.
+\end_layout
+
+\begin_layout Standard
+You can also center the image by putting first your cursor on the side of
+ the image that you want to center.
+ Right click then select 
+\shape italic
+Paragraph Settings
+\shape default
+.
+ Finally, select the 
+\shape italic
+Center
+\shape default
+ button.
+ 
+\end_layout
+
+\begin_layout Standard
+You can scale the images inside the document by clicking on the image.
+ As shown in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:LyX-Graphics-options"
+
+\end_inset
+
+, images can be scaled relative to the column width.
+ For two column document formats, scale the image relative to the text width.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/image_scale.png
+	width 60col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+LyX Graphics options
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:LyX-Graphics-options"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As shown in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Subfloat-Sample"
+
+\end_inset
+
+, we can also insert floats within the float.
+ To put the subfloat to the document center, click on the side of the 
+\shape italic
+subfloat: Figure
+\shape default
+ field, instead of the image within the subfloat, and then access the 
+\shape italic
+Paragraph Settings
+\shape default
+ as described in the previous steps.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/subfloat.png
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Subfloat A
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/subfloat.png
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Subfloat B
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Subfloat Sample
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Subfloat-Sample"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Inserting Tables
+\end_layout
+
+\begin_layout Standard
+Tables can be inserted just like Figure floats.
+ Tables can also be centered just like the images in the same way.
+ Note that some tables might be too long to fit the page.
+ Again, by convention, table descriptions are placed on top of tables as
+ demonstrated in Table 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Sample-Table"
+
+\end_inset
+
+.
+ Make it fit by setting the column width (
+\series bold
+Right click the whole column -> More -> Settings
+\series default
+).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float table
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Sample Table 
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Sample-Table"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<column alignment="center" valignment="top" width="0">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Row 1, Column 1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Row 1, Column 2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Row 1, Column 3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Row 1, Column 4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Row 1, Column 5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Inserting Citations
+\end_layout
+
+\begin_layout Standard
+To download the BibTeX formatted citation from IEEEXplore, see Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:BibTeX-from-IEEEXplore"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/bibtex.png
+	width 55col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+BibTeX from IEEEXplore
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:BibTeX-from-IEEEXplore"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Put whatever text returned by IEEEXplore to your BibTeX file (.bib).
+ The references should follow the BibTeX format.
+ To cite your paper 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "6412281"
+
+\end_inset
+
+, click 
+\series bold
+Insert > Citation
+\series default
+, select the desired paper, then click 
+\shape italic
+Add
+\shape default
+, see Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Selecting-citations"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/papers.png
+	width 70col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Selecting citations 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Selecting-citations"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As shown in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Bibliographies-with-no"
+
+\end_inset
+
+, work titles on bibliographies generated by BibTeX are not automatically
+ capitalized.
+ Capitalization can be forced by editing the BibTeX file (.bib) and then
+ enclosing the capital letters of the titles with {}, such as 
+\begin_inset Quotes eld
+\end_inset
+
+
+\series bold
+title={An {A}ggressive {P}ower {O}ptimization of the {ARM9}-based core using
+ {RAZOR}},
+\series default
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/bibliography.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Bibliographies with no auto-capitalization 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Bibliographies-with-no"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Inserting Equations
+\end_layout
+
+\begin_layout Standard
+You can insert inline equations like this: 
+\begin_inset Formula $V=IR$
+\end_inset
+
+
+\series bold
+ 
+\series default
+by going to 
+\series bold
+Insert -> Math -> Inline Equation
+\series default
+.
+ You can also insert numbered equations through 
+\series bold
+Insert > Math > Numbered Formula
+\series default
+.
+ 
+\begin_inset Formula 
+\begin{equation}
+\nicefrac{x}{y}=\frac{x}{y}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+P(Z>1)=P(Z<0)=\frac{1}{2}\left[1+erf\left(\frac{Z-0.5}{\sqrt{2(0.18)}}\right)\right]=0.1193\label{eq:1}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{equation}
+T_{P}=\frac{\left[10\unitfrac{bits}{preamble}+(4\unitfrac{bytes}{packet})(8\unitfrac{bits}{byte})\right](16\unitfrac{symbols}{bit})}{450\unitfrac{ksymbols}{second}}=1.493ms\label{eq:4-1}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+A math toolbar, as shown in Figure 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Math-toolbar-for"
+
+\end_inset
+
+, will appear whenever you try to edit an equation field.
+ This greatly helps in creating professional-looking equations.
+ It is required that all equations appearing in the document be written
+ out using this option.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename images/equations.png
+	width 90col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Math toolbar for equation writing
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Math-toolbar-for"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

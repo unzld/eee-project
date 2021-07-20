@@ -1,0 +1,206 @@
+%% Do not edit unless you really know what you are doing.
+\documentclass[english]{upeeei}
+
+
+%% Used to remove errors regarding \degree - Zild
+\let\olddegree\degree  % Store \degree in \olddegree
+\let\degree\relax      % Remove definition of \degree
+% ... load other packages
+\usepackage{gensymb}   % This creates \degree
+\let\degreesymb\degree % Store new \degree in \degreesymb
+\let\degree\olddegree  % Restore \degree to its old definition \olddegree
+% ... rest of your document
+
+\usepackage[latin9]{inputenc}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage[active]{srcltx}
+%\usepackage{float}
+\usepackage{floatrow}
+\usepackage{units}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{gensymb}
+\usepackage{multirow}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{hyperref}
+\usepackage{units}
+\usepackage{parskip}
+\usepackage{graphicx}
+\usepackage{subfig} 
+\usepackage{url}  
+\usepackage{amsmath}   
+\usepackage{commath}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{afterpage}
+\usepackage{textcomp}
+\usepackage{lscape}
+\usepackage{stfloats}
+\usepackage{hyphenat}
+\usepackage{makeidx}
+\usepackage{amssymb}
+\fnbelowfloat
+\usepackage{times}
+\usepackage{multirow}
+\usepackage{circuitikz}
+\usepackage[backend=bibtex,bibstyle=ieee,citestyle=numeric-comp]{biblatex}
+\usepackage{color,soul}
+\usepackage{pgfplots}
+\newfloatcommand{capbtabbox}{table}[][\FBwidth]
+\usepackage{blindtext}
+\usepackage{verbatim}
+
+\addbibresource{bibfile.bib}
+
+%\usepackage{arydshln}
+
+\pgfplotsset{width=7cm,compat=1.5.1}
+\renewcommand*{\bibfont}{\small}
+
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\newcommand\ddfrac[2]{\frac{\displaystyle #1}{\displaystyle #2}}
+\pgfplotsset{compat=1.14}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+\providecommand{\LyX}{L\kern-.1667em\lower.25em\hbox{Y}\kern-.125emX\@}
+%% Because html converters don't know tabularnewline
+\providecommand{\tabularnewline}{\\}
+
+\@ifundefined{showcaptionsetup}{}{%
+ \PassOptionsToPackage{caption=false}{subfig}}
+\usepackage{subfig}
+\makeatother
+
+\usepackage{babel}
+
+
+\hypersetup{hidelinks}
+
+\documentclass[english]{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{luainputenc}
+\usepackage[a4paper]{geometry}
+\geometry{verbose,tmargin=0.5in,bmargin=1in,lmargin=0.5in,rmargin=0.5in}
+\usepackage{graphicx}
+
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+%% Because html converters don't know tabularnewline
+\providecommand{\tabularnewline}{\\}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\usepackage{multirow} 
+\pagestyle{empty}
+
+\makeatother
+
+\usepackage{babel}
+
+\begin{document}
+\noindent \begin{center}
+\begin{tabular}{c}
+\includegraphics[width=0.625in]{UP_logo_maroon}\tabularnewline
+UNIVERSITY OF THE PHILIPPINES\tabularnewline
+\end{tabular}
+\par\end{center}
+
+\vspace*{\fill}
+
+\begin{center}
+Bachelor of Science in Electrical Engineering\\
+Bachelor of Science in Electronics and Communications Engineering\\
+\par\end{center}
+
+\vspace*{\fill}
+
+\begin{center}
+Carl Samuel R. Lavilla\\
+Michael E. Osorio\\
+Zildjian Joshua C. Restituto\\
+\par\end{center}
+
+\begin{center}
+Effect of Net Metering and Rooftop Photovoltaics on Electricity Theft Detection
+\par\end{center}
+
+\vspace*{\fill}
+
+\begin{center}
+Undergraduate Project Adviser:\\
+\par\end{center}
+
+\begin{center}
+Adonis Tio, M.S. EE
+\par\end{center}
+
+\begin{center}
+Electrical and Electronics Engineering Institute 
+\par\end{center}
+
+\begin{center}
+University of the Philippines Diliman
+\par\end{center}
+
+\vspace*{\fill}
+
+\begin{center}
+Undergraduate Project Reader:\\
+\par\end{center}
+
+\begin{center}
+Nicolette Arriola, M.S. EE
+\par\end{center}
+
+\begin{center}
+Electrical and Electronics Engineering Institute 
+\par\end{center}
+
+\begin{center}
+University of the Philippines - Diliman
+\par\end{center}
+
+\vspace*{\fill}
+
+\begin{center}
+Date of Submission\\
+July 19, 2021
+\par\end{center}
+
+\vspace*{\fill}
+
+\begin{center}
+Permission is given for the following people to have access to this
+thesis: 
+\par\end{center}
+
+\noindent \begin{center}
+\begin{tabular}{|l|c|}
+\cline{1-1} 
+Circle one or more concerns: \hspace*{1cm}I\qquad{}P\qquad{} C & \multicolumn{1}{c}{}\tabularnewline
+\hline 
+Available to the general public & Yes/No\tabularnewline
+\hline 
+Available only after consultation with author/thesis adviser & Yes/No\tabularnewline
+\hline 
+Available only to those bound by confidentiality agreement & Yes/No\tabularnewline
+\hline 
+\multicolumn{1}{l}{\hspace*{10cm}} & \multicolumn{1}{c}{\hspace*{2cm}}\tabularnewline
+\end{tabular}
+\par\end{center}
+
+Students\textquoteright{} signatures: \\
+\begin{tabular}{c}
+\includegraphics[width=0.6in]{carl.png}
+\includegraphics[width=0.6in]{kel.png}
+\includegraphics[width=0.6in]{zild.png}\tabularnewline
+\end{tabular}\\
+Signature of undergraduate project advisers: \\
+
+\end{document}
