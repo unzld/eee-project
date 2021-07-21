@@ -1,5 +1,5 @@
-# EEE Undergraduate Project - Electrical and Electronics Engineering Institute, University of the Philippines Diliman
-## Effect of Net Metering and Rooftop Photovoltaics on Electricity Theft Detection
+# Effect of Net Metering and Rooftop Photovoltaics on Electricity Theft Detection
+## EEE Undergraduate Project - Electrical and Electronics Engineering Institute, University of the Philippines Diliman
 Members:
 * Carl Samuel R. Lavilla
 * Michael E. Osorio
